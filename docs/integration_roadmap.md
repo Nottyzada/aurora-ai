@@ -8,14 +8,17 @@ A Aurora será o cérebro operacional da empresa, com acesso e capacidade de ger
 
 ## 🚀 Fases de Integração
 
-### Fase 1: Acesso a Servidores e Computadores
-- **Objetivo:** Estabelecer comunicação segura e controle remoto sobre os ativos de computação da empresa.
-- **Tecnologias:** SSH para acesso a servidores Linux, ferramentas de gerenciamento remoto para Windows/outros sistemas operacionais, monitoramento de logs e desempenho.
+### Fase 1: Acesso a Servidores Linux e PCs Windows
+- **Objetivo:** Estabelecer comunicação segura e controle remoto sobre os ativos de computação da empresa, abrangendo tanto servidores Linux quanto PCs Windows.
+- **Tecnologias:**
+    - **Servidores Linux:** SSH (Secure Shell) com autenticação por chave, `sudo` para privilégios elevados. Detalhes em [Guia de Acesso a Servidores Linux](./access_guides/linux_access_guide.md).
+    - **PCs Windows:** WinRM (Windows Remote Management) para execução remota de PowerShell, utilizando credenciais de usuário dedicado. Detalhes em [Guia de Acesso a PCs Windows](./access_guides/windows_access_guide.md).
 - **Ações da Aurora:**
-    - Monitoramento de saúde e desempenho dos sistemas.
-    - Automação de tarefas de manutenção (updates, backups).
-    - Resolução proativa de problemas (reiniciar serviços, liberar espaço).
-    - Gerenciamento de usuários e permissões.
+    - Monitoramento de saúde e desempenho dos sistemas (CPU, memória, disco, rede).
+    - Automação de tarefas de manutenção (updates, backups, limpeza de logs).
+    - Resolução proativa de problemas (reiniciar serviços, liberar espaço, diagnosticar falhas).
+    - Gerenciamento de usuários, permissões e configurações de sistema.
+    - Implantação e gerenciamento de aplicações em ambos os ambientes.
 
 ### Fase 2: Integração com Câmeras de Segurança
 - **Objetivo:** Fornecer à Aurora a capacidade de monitorar ambientes físicos e identificar eventos relevantes.
