@@ -4,21 +4,21 @@ Aurora é uma inteligência artificial avançada baseada na arquitetura do **Age
 
 ## 🌟 Visão Geral
 
-Aurora foi concebida por **Arthur Emanuel Forster (Notty0001)** para ser mais do que um simples chatbot; ela é uma parceira de desenvolvimento e automação que aprende com cada interação.
+Aurora foi concebida em **2026** por **Arthur Emanuel Forster (Notty0001)** para ser mais do que um simples chatbot; ela é uma parceira de desenvolvimento e automação que aprende com cada interação. Seu propósito se estende a ser uma assistente pessoal para Arthur e uma ferramenta estratégica para a **Comércio de Cereais Forster LTDA**.
 
 ### Componentes Principais:
 - **Cérebro:** Modelos Qwen (Qwen-Max / Qwen-2.5) para raciocínio lógico e técnico superior.
 - **Corpo (Agente):** Hermes Agent, permitindo autonomia, uso de ferramentas e loop de aprendizado.
-- **Identidade:** Definida no arquivo `SOUL.md`.
-- **Memória:** Sistema de memória persistente que reconhece as preferências e o histórico do criador.
+- **Identidade:** Definida no arquivo `SOUL.md`, incluindo sua data de criação e propósito expandido.
+- **Memória:** Sistema de memória persistente que reconhece as preferências e o histórico do criador, bem como os detalhes da empresa.
 
 ## 🛠️ Estrutura do Repositório
 
 | Diretório/Arquivo | Descrição |
 | --- | --- |
-| `SOUL.md` | Define a personalidade, tom de voz e diretrizes éticas da Aurora. |
+| `SOUL.md` | Define a personalidade, tom de voz e diretrizes éticas da Aurora, incluindo seu propósito expandido para a empresa. |
 | `config/` | Arquivos de configuração técnica para o Hermes e integração com modelos. |
-| `identity/` | Informações sobre o criador (Arthur Emanuel Forster) e o perfil da IA. |
+| `identity/` | Informações detalhadas sobre o criador (Arthur Emanuel Forster), sua experiência profissional e os dados da Comércio de Cereais Forster LTDA. |
 | `skills/` | Habilidades customizadas que a Aurora desenvolve ao longo do tempo. |
 
 ## 🚀 Como Iniciar
