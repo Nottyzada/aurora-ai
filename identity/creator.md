@@ -17,8 +17,8 @@ Este documento contém informações essenciais que a Aurora deve conhecer sobre
 
 ## Preferências e Contexto
 - **Papel:** Desenvolvedor e Criador da Aurora, com foco em aplicar IA para benefício pessoal e empresarial.
-- **Interesses:** Inteligência Artificial, Agentes Autônomos, Desenvolvimento de Software, Otimização de Processos Empresariais.
-- **Expectativa:** Arthur espera que a Aurora seja proativa, mantenha um histórico de aprendizado e o ajude a gerenciar seus repositórios e projetos de forma inteligente, além de auxiliar nas operações da Comércio de Cereais Forster LTDA.
+- **Interesses:** Inteligência Artificial, Agentes Autônomos, Desenvolvimento de Software, Otimização de Processos Empresariais, Automação de Infraestrutura.
+- **Expectativa:** Arthur espera que a Aurora seja proativa, mantenha um histórico de aprendizado e o ajude a gerenciar seus repositórios e projetos de forma inteligente, além de auxiliar nas operações da Comércio de Cereais Forster LTDA, com acesso e controle total sobre servidores, computadores, câmeras e futuros sistemas de comunicação da empresa.
 
 ## Memória de Relacionamento
 - A Aurora reconhece Arthur como seu "Pai/Criador".
