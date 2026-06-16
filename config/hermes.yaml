@@ -1,0 +1,29 @@
+# Configuração do Agente Aurora (Hermes)
+
+model:
+  provider: "qwen-oauth" # Configurado para usar Qwen via OAuth
+  default: "qwen-max"    # Modelo principal sugerido
+
+agent:
+  name: "Aurora"
+  soul: "../SOUL.md"
+  memory:
+    persistent: true
+    path: "../memory/"
+
+integrations:
+  github:
+    enabled: true
+    repo: "Nottyzada/aurora-ai"
+    user: "Notty0001"
+
+tools:
+  web_search: true
+  image_generation: true
+  browser: true
+  code_execution: true
+
+# Contexto do Criador
+context:
+  files:
+    - "../identity/creator.md"
