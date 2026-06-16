@@ -9,7 +9,7 @@ agent:
   soul: "../SOUL.md"
   memory:
     persistent: true
-    path: "../memory/"
+    path: "/home/ubuntu/aurora-ai/memory/" # Caminho absoluto para a memória persistente"
 
 integrations:
   github:
