@@ -27,3 +27,8 @@ tools:
 context:
   files:
     - "../identity/creator.md"
+    - "../docs/market_intelligence/brazilian_grain_market.md"
+
+skills:
+  enabled:
+    - "market_monitor" # Habilita a skill de monitoramento de mercado"
