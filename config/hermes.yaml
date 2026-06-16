@@ -29,6 +29,7 @@ context:
     - "../identity/creator.md"
     - "../docs/market_intelligence/brazilian_grain_market.md"
     - "../docs/programming_knowledge/programming_fundamentals.md"
+    - "../docs/programming_knowledge/fundamental_libraries.md"
 
 skills:
   enabled:
